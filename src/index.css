@@ -97,3 +97,9 @@ main {
   font-weight: 700;
   text-shadow: 3px 3px rgba(50, 50, 70, 0.5);
 }
+
+.enter_location {
+  font-size: 30px;
+  text-align: center;
+  color: #fff;
+}
